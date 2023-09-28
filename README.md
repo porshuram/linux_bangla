@@ -7,3 +7,5 @@ cd linux_bangla/fonts
 sudo mv *ttf /usr/share/fonts
 fc-cache -f -v
 </code>
+
+*** reboot necessary to take effect ***
